@@ -63,7 +63,6 @@ _**Heaven’s Light is Our Guide**_
 
 ## 📑 Laboratory Reports
 
-## 📑 Laboratory Reports
 
 | Lab No. | Experiment / Report | Report |
 | :-----: | :------------------ | :----: |
