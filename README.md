@@ -1,4 +1,4 @@
-# ECE-2112 — Digital Techniques
+## ECE-2112_2410029_Lab
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
