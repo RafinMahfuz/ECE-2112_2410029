@@ -1,5 +1,25 @@
 # ECE-2112 — Digital Techniques
+<div align="center">
+  
+_**Heaven’s Light is Our Guide**_
+</div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18531be8-2a84-4bea-9027-5f1c40549dfa" alt="RUET Logo" style="width:150px;height:170px;">
+</p>
+
+<div align="center">
+  
+  ## **Rajshahi University of Engineering and Technology** <br> 
+  ### **Department of Electrical & Computer Engineering**
+  ### **Lab Reports**<br>
+  **Course Name:** Object Oriented Programming sessional<br>
+  **Course Code:** ECE 1204
+</div>
+<br>
+<div align="center">
+
+---  
 <div align="center">
 
 # **Digital Techniques**
