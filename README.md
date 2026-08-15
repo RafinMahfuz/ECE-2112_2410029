@@ -68,7 +68,7 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Experiment / Report | Report |
 | :-----: | :------------------ | :----: |
 | **01** | Lab Report 1 | [📄 Open PDF](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE_24_Lab%20Report_1.pdf) |
-| **02** | Lab Report 2 | [📄 Open PDF](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE%2024_Lab%20Report_2.pdf) |
+| **02** | Lab Report 2 | [📄 Open PDF](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE_24_Lab%20Report_2.pdf) |
 
 ---
 
