@@ -19,25 +19,7 @@ _**Heaven’s Light is Our Guide**_
 <br>
 <div align="center">
 
----  
-<div align="center">
 
-# **Digital Techniques**
-
-## **Sessional Lab Reports**
-
-**Course No.: ECE 2112**
-**Course Title: Digital Techniques**
-**Department of Electrical & Computer Engineering**
-**Rajshahi University of Engineering & Technology (RUET)**
-
-<br>
-
-***Heaven’s Light is Our Guide***
-
-</div>
-
----
 
 <div align="center">
 
