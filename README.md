@@ -28,9 +28,9 @@ _**Heaven’s Light is Our Guide**_
 # **Rafin Mahfuz**
 
 **Roll No.: 2410029**
-Department of Electrical & Computer Engineering
-Rajshahi University of Engineering & Technology
-Rajshahi-6204, Bangladesh
+#### Department of Electrical & Computer Engineering
+#### Rajshahi University of Engineering & Technology
+#### Rajshahi-6204, Bangladesh
 
 <br>
 
@@ -39,9 +39,9 @@ Rajshahi-6204, Bangladesh
 # **Mst. Mazeda Noor Tasnim**
 
 **Lecturer**
-Department of Electrical & Computer Engineering
-Rajshahi University of Engineering & Technology
-Rajshahi-6204, Bangladesh
+#### Department of Electrical & Computer Engineering
+#### Rajshahi University of Engineering & Technology
+#### Rajshahi-6204, Bangladesh
 
 </div>
 
