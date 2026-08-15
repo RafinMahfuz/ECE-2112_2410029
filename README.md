@@ -63,20 +63,19 @@ _**Heaven’s Light is Our Guide**_
 
 ## 📑 Laboratory Reports
 
-| Lab No. | Experiment / Report                                    |          Report         |
-| :-----: | :----------------------------------------------------- | :---------------------: |
-|  **01** | Lab Report 1                                           | [Lab 01]([./Lab%2001.md](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE_24_Lab%20Report_1.pdf)) |
-|  **02** | Lab Report 2                                           | [Lab 02]([./Lab%2002.md](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE_24_Lab%20Report_2.pdf)) |
-|  **03** | —                                                      | [Lab 03](./Lab%2003.md) |
-|  **04** | —                                                      | [Lab 04](./Lab%2004.md) |
-|  **05** | —                                                      | [Lab 05](./Lab%2005.md) |
-|  **06** | —                                                      | [Lab 06](./Lab%2006.md) |
-|  **07** | —                                                      | [Lab 07](./Lab%2007.md) |
-|  **08** | —                                                      | [Lab 08](./Lab%2008.md) |
-|  **09** | —                                                      | [Lab 09](./Lab%2009.md) |
-|  **10** | —                                                      | [Lab 10](./Lab%2010.md) |
+## 📑 Laboratory Reports
 
-
-
+| Lab No. | Experiment / Report | Report |
+| :-----: | :------------------ | :----: |
+| **01** | Lab Report 1 | [📄 Lab Report 1](./Rafin%20Mahfuz_ECE%2024_Lab%20Report_1.pdf) |
+| **02** | Lab Report 2 | [📄 Lab Report 2](./Rafin%20Mahfuz_ECE%2024_Lab%20Report_2.pdf) |
+| **03** | — | [Lab 03](./Lab%2003.md) |
+| **04** | — | [Lab 04](./Lab%2004.md) |
+| **05** | — | [Lab 05](./Lab%2005.md) |
+| **06** | — | [Lab 06](./Lab%2006.md) |
+| **07** | — | [Lab 07](./Lab%2007.md) |
+| **08** | — | [Lab 08](./Lab%2008.md) |
+| **09** | — | [Lab 09](./Lab%2009.md) |
+| **10** | — | [Lab 10](./Lab%2010.md) |
 ---
 
