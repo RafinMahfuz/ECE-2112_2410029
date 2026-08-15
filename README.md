@@ -64,10 +64,12 @@ _**Heaven’s Light is Our Guide**_
 ## 📑 Laboratory Reports
 
 
+## 📑 Laboratory Reports
+
 | Lab No. | Experiment / Report | Report |
 | :-----: | :------------------ | :----: |
-| **01** | Lab Report 1 | [📄 Lab Report 1](./Rafin%20Mahfuz_ECE%2024_Lab%20Report_1.pdf) |
-| **02** | Lab Report 2 | [📄 Lab Report 2](./Rafin%20Mahfuz_ECE%2024_Lab%20Report_2.pdf) |
+| **01** | Lab Report 1 | [📄 Open PDF](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE%2024_Lab%20Report_1.pdf) |
+| **02** | Lab Report 2 | [📄 Open PDF](https://github.com/RafinMahfuz/ECE-2112_2410029/blob/main/Rafin%20Mahfuz_ECE%2024_Lab%20Report_2.pdf) |
 | **03** | — | [Lab 03](./Lab%2003.md) |
 | **04** | — | [Lab 04](./Lab%2004.md) |
 | **05** | — | [Lab 05](./Lab%2005.md) |
